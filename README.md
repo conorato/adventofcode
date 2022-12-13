@@ -1,3 +1,3 @@
-# adventofcode :christmas_tree:
+# adventofcode :christmas_tree: :star2:
 
 https://adventofcode.com/2022
